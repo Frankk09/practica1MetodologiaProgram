@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/practica1MetodologiaProgram.csproj": {}
+  },
+  "projects": {
+    "/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/practica1MetodologiaProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/practica1MetodologiaProgram.csproj",
+        "projectName": "practica1MetodologiaProgram",
+        "projectPath": "/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/practica1MetodologiaProgram.csproj",
+        "packagesPath": "/Users/Miguel/.nuget/packages/",
+        "outputPath": "/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Miguel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
