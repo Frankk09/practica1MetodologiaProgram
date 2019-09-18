@@ -1,0 +1,11 @@
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/bin/Debug/netcoreapp2.2/practica1MetodologiaProgram.deps.json
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/bin/Debug/netcoreapp2.2/practica1MetodologiaProgram.runtimeconfig.json
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/bin/Debug/netcoreapp2.2/practica1MetodologiaProgram.runtimeconfig.dev.json
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/bin/Debug/netcoreapp2.2/practica1MetodologiaProgram.dll
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/bin/Debug/netcoreapp2.2/practica1MetodologiaProgram.pdb
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/Debug/netcoreapp2.2/practica1MetodologiaProgram.csprojAssemblyReference.cache
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/Debug/netcoreapp2.2/practica1MetodologiaProgram.csproj.CoreCompileInputs.cache
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/Debug/netcoreapp2.2/practica1MetodologiaProgram.AssemblyInfoInputs.cache
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/Debug/netcoreapp2.2/practica1MetodologiaProgram.AssemblyInfo.cs
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/Debug/netcoreapp2.2/practica1MetodologiaProgram.dll
+/Users/Miguel/Documents/PracticasMetoPro/practica1MetodologiaProgram/obj/Debug/netcoreapp2.2/practica1MetodologiaProgram.pdb
